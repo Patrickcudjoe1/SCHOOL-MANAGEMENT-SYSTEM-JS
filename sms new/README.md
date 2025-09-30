@@ -99,21 +99,10 @@ A comprehensive school management system built with Next.js and Node.js, featuri
    TWILIO_PHONE_NUMBER=your_twilio_phone_number
    ```
 
-4. **Start the development servers**
-   ```bash
-   npm run dev
-   ```
 
-   This will start both the backend server (port 5000) and frontend (port 3000).
 
-5. **Access the application**
-   - Frontend: http://localhost:3000
-   - Backend API: http://localhost:5000/api
 
-## 📱 Demo Credentials
 
-- **Admin**: admin@school.com / admin123
-- **Staff**: staff@school.com / staff123
 
 ## 🏗️ Project Structure
 
@@ -258,5 +247,5 @@ For support and questions:
 
 ---
 
-Built with ❤️ for educational institutions worldwide.
+
 
