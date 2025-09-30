@@ -57,7 +57,7 @@ A comprehensive school management system built with Next.js and Node.js, featuri
 - Node.js 16+ 
 - MongoDB
 - Twilio account (for SMS)
-- Email service (Gmail recommended)
+- Email service (Gmail)
 
 ### Installation
 
@@ -259,3 +259,4 @@ For support and questions:
 ---
 
 Built with ❤️ for educational institutions worldwide.
+
